@@ -1,0 +1,16 @@
+{
+  "semi": false,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "jsxBracketSameLine": false,
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "importOrder": ["^[./]"],
+  "importOrderSeparation": true,
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
